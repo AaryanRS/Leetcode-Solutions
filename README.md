@@ -16,11 +16,26 @@ It serves as a record of my daily practice in Data Structures and Algorithms (DS
 ## 📂 Structure
 
 leetcode-solutions/
+│
 ├── arrays/
+│   ├── two_sum.py
+│   └── max_subarray.py
+│
 ├── strings/
+│   ├── longest_substring.py
+│   └── valid_palindrome.py
+│
 ├── dynamic_programming/
+│   ├── climbing_stairs.py
+│   └── coin_change.py
+│
 ├── graphs/
-└── README.md
+│   ├── bfs_traversal.py
+│   └── shortest_path.py
+│
+├── trees/
+│   ├── binary_tree_inorder.py
+│   └── lowest_common
 
 ## 🎯 Purpose
 - Maintain consistency in problem-solving practice.
