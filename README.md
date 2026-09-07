@@ -15,27 +15,30 @@ It serves as a record of my daily practice in Data Structures and Algorithms (DS
 
 ## 📂 Structure
 
-leetcode-solutions/
-│
-├── arrays/
-│   ├── two_sum.py
-│   └── max_subarray.py
-│
-├── strings/
-│   ├── longest_substring.py
-│   └── valid_palindrome.py
-│
-├── dynamic_programming/
-│   ├── climbing_stairs.py
-│   └── coin_change.py
-│
-├── graphs/
-│   ├── bfs_traversal.py
-│   └── shortest_path.py
-│
-├── trees/
-│   ├── binary_tree_inorder.py
-│   └── lowest_common
+  # Arrays
+  - Two Sum
+  - Maximum Subarray
+  - Merge Sorted Array
+  
+  # Strings
+  - Longest Substring Without Repeating Characters
+  - Valid Palindrome
+  - Implement strStr()
+  
+  # Dynamic Programming
+  - Climbing Stairs
+  - Coin Change
+  - Longest Increasing Subsequence
+  
+  # Graphs
+  - BFS Traversal
+  - Shortest Path in Binary Matrix
+  - Number of Islands
+  
+  # Trees
+  - Binary Tree Inorder Traversal
+  - Lowest Common Ancestor
+  - Maximum Depth of Binary Tree
 
 ## 🎯 Purpose
 - Maintain consistency in problem-solving practice.
