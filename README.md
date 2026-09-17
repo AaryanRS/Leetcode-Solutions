@@ -15,31 +15,10 @@ It serves as a record of my daily practice in Data Structures and Algorithms (DS
 
 ## 📂 Structure
 
-  # Arrays
-  - Two Sum
-  - Maximum Subarray
-  - Merge Sorted Array
+  # Easy Level
+  # Hard Level
+  # Medium Level
   
-  # Strings
-  - Longest Substring Without Repeating Characters
-  - Valid Palindrome
-  - Implement strStr()
-  
-  # Dynamic Programming
-  - Climbing Stairs
-  - Coin Change
-  - Longest Increasing Subsequence
-  
-  # Graphs
-  - BFS Traversal
-  - Shortest Path in Binary Matrix
-  - Number of Islands
-  
-  # Trees
-  - Binary Tree Inorder Traversal
-  - Lowest Common Ancestor
-  - Maximum Depth of Binary Tree
-
 ## 🎯 Purpose
 - Maintain consistency in problem-solving practice.
 - Build a portfolio of DSA solutions.
