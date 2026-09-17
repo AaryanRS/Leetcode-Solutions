@@ -15,9 +15,9 @@ It serves as a record of my daily practice in Data Structures and Algorithms (DS
 
 ## 📂 Structure
 
-  # Easy Level
-  # Hard Level
-  # Medium Level
+    ---> Easy Level
+    ---> Hard Level
+    ---> Medium Level
   
 ## 🎯 Purpose
 - Maintain consistency in problem-solving practice.
