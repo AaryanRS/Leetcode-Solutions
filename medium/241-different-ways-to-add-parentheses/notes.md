@@ -1,0 +1,12 @@
+# 241. Different Ways to Add Parentheses
+
+## python3 — v1 (2026-10-23)
+
+- Problem: https://leetcode.com/problems/different-ways-to-add-parentheses/
+- Time complexity: _not specified_
+- Space complexity: _not specified_
+- Solution file: [`python3_v1.py`](./python3_v1.py)
+
+_No notes provided._
+
+---
